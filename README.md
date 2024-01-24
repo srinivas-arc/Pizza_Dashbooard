@@ -1,0 +1,1 @@
+Hello Everyone I created This Dashboard Using Power BI tool, In this Pizza Dashboard we are focussing on client needs diving into the data and measuring insights, this dashboard provides important insights that helps client to tackle business challenges.
